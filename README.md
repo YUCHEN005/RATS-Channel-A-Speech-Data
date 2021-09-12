@@ -5,7 +5,7 @@ I. Log-Mel Fbank feature
 
 Google Drive Address: <https://drive.google.com/drive/folders/118JBm0B5txiS7q09SX_xlbf2glbad0jA?usp=sharing>
 
-There you will find a README.md for instrcution.
+Where you will find a README.md for instrcution.
 
 II. Raw Waveform Listening Demos
 
