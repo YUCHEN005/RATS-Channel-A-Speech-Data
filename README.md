@@ -14,7 +14,9 @@ Where we select one raw wavform example from train set, valid set and test set, 
 (1) Train Set => fe_03_49740-04165-B-006411-007486-A.wav
 
 a. noisy speech: 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1488737309&auto=1&height=66"></iframe>
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="https://github.com/YUCHEN005/RATS-Chaneel-A-Speech-Data/tree/main/demos/train_noisy.wav">
+</audio>
 
 b. clean speech:
 
