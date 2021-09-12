@@ -9,13 +9,13 @@ Where you will find a README.md for instrcution.
 
 II. Raw Waveform Listening Demos
 
-Where we select one raw wavform example from train set, valid set and test set, respectively. We also present their corresonding clean examples to show their noisiness.
+Where we select one raw wavform example from train set, valid set and test set, respectively. We also present their corresonding clean examples to show their noisiness. (Note: since Github README.md does not support .wav format, we tra)
 
 (1) Train Set => fe_03_49740-04165-B-006411-007486-A.wav
 
 a. noisy speech: 
 <audio id="audio" controls="" preload="none">
-      <source id="wav" src="https://github.com/YUCHEN005/RATS-Chaneel-A-Speech-Data/tree/main/demos/train_noisy.wav">
+      <source id="mp4" src="https://github.com/YUCHEN005/RATS-Chaneel-A-Speech-Data/tree/main/demos/train_noisy.wav">
 </audio>
 
 b. clean speech:
