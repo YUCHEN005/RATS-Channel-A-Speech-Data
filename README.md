@@ -15,7 +15,7 @@ Where we select one raw wavform example from train set, valid set and test set, 
 
 a. noisy speech: 
 <audio id="audio" controls="" preload="none">
-      <source id="mp3" src="https://github.com/YUCHEN005/RATS-Chaneel-A-Speech-Data/tree/main/demos/train_noisy.wav">
+      <source id="wav" src="https://github.com/YUCHEN005/RATS-Chaneel-A-Speech-Data/tree/main/demos/train_noisy.wav">
 </audio>
 
 b. clean speech:
