@@ -1,5 +1,5 @@
 # RATS-Chaneel-A-Speech-Data
-We create a private repository for RATS Channel A Speech Data, which is not yet public. Here we release its Log-Mel Fbank feature and show several raw wavform listening demos.
+We create a private repository for RATS Channel A Speech Data, which is not yet public. Here we release its Log-Mel Fbank feature and present several raw wavform listening demos.
 
 ## I. Log-Mel Fbank feature
 
@@ -9,7 +9,7 @@ Where you will find a README.md for instrcution.
 
 ## II. Raw Waveform Listening Demos
 
-Here we select one raw wavform example from train set, valid set and test set, respectively. And we also present their corresonding clean examples to indicate their noisiness. 
+Here we select one raw wavform example from train set, valid set and test set, respectively. And we also present their parallel clean examples to indicate their noisiness. 
 
 (Note: since Github README.md does not support .wav format, we transfer raw files to .mp4 format for presentation, for raw files please turn to /demos/)
 
