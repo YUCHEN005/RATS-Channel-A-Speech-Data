@@ -5,7 +5,7 @@ We create a private repository for RATS Channel A Speech Data, which is not yet 
 
 Google Drive Address: <https://drive.google.com/drive/folders/118JBm0B5txiS7q09SX_xlbf2glbad0jA?usp=sharing>
 
-Where you will find a README.md for instrcution.
+Where you will find a README.md for instrcutions.
 
 ## II. Raw Waveform Listening Demos
 
