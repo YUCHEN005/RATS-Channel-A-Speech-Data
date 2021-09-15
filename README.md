@@ -11,7 +11,7 @@ Where you will find a README.md for instrcutions.
 
 Here we select one raw wavform example from train set, valid set and test set, respectively. And we also present their parallel clean examples to indicate their noisiness. 
 
-(Note: since Github README.md does not support .wav format, we transfer raw files to .mp4 format for presentation, for raw files please turn to /demos/)
+(Note: since Github README.md does not support .wav format, we transfer raw files to .mp4 format for presentation here, one can turn to /demos/ for raw files)
 
 ### (1) Train Set (select: fe_03_49740-04165-B-006411-007486-A.wav)
 
