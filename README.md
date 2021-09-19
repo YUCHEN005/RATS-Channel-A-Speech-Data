@@ -1,4 +1,4 @@
-# RATS-Chaneel-A-Speech-Data
+# RATS-Channel-A-Speech-Data
 We create a private repository for RATS Channel A Speech Data, which is not yet public. Here we release its Log-Mel Fbank feature and present several raw wavform listening demos.
 
 ## I. Log-Mel Fbank feature
