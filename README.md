@@ -1,17 +1,17 @@
 # RATS-Channel-A-Speech-Data
-We create a private repository for RATS Channel A Speech Data, which is not yet public. Here we release its Log-Mel Fbank feature and present several raw wavform listening demos.
+We create a public repository for RATS Channel A Speech Data, which is a chargeable dataset under LDC. Here we release its Log-Mel Fbank features and several raw wavform listening samples.
 
-## I. Log-Mel Fbank feature
+## I. Log-Mel Fbank features
 
 Google Drive Address: <https://drive.google.com/drive/folders/118JBm0B5txiS7q09SX_xlbf2glbad0jA?usp=sharing>
 
 Where you will find a README.md for instrcutions.
 
-## II. Raw Waveform Listening Demos
+## II. Raw Waveform Listening Samples
 
-Here we select one raw wavform example from train set, valid set and test set, respectively. And we also present their parallel clean examples to indicate their noisiness. 
+Here we select one raw wavform sample from train set, valid set and test set, respectively. And we also present their parallel clean samples to highlight their noisiness. 
 
-(Note: since Github README.md does not support .wav format, we transfer raw files to .mp4 format for presentation here, one can turn to /demos/ for raw files)
+(Note: since Github README.md does not support .wav format, we transfer the raw .wav files to .mp4 format for presentation here, one can turn to /samples/ for raw files)
 
 ### (1) Train Set (select: fe_03_49740-04165-B-006411-007486-A.wav)
 
