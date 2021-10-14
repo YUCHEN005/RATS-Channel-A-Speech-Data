@@ -13,7 +13,7 @@ Where you will find a README.md for instrcutions.
 
 Here we select one raw wavform sample from train set, valid set and test set, respectively. And we also present their parallel clean samples to show how noisy the RATS Channel-A corpus is. 
 
-(Note: since Github README.md does not support .wav format, we transfer the raw .wav files to .mp4 format for presentation here, one can turn to /samples/ for raw files)
+(Note: since Github README.md does not support .wav format, we transfer the raw .wav files to .mp4 format for presentation here, one can turn to ./samples for raw files)
 
 
 ### (1) Train Sample
