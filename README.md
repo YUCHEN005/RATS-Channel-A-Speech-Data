@@ -16,7 +16,7 @@ Here we select one raw wavform sample from train set, valid set and test set, re
 (Note: since Github README.md does not support .wav format, we transfer the raw .wav files to .mp4 format for presentation here, one can turn to /samples/ for raw files)
 
 
-### (1) Train Sample (fe_03_49740-04165-B-006411-007486-A.wav)
+### (1) Train Sample
 
 a. noisy speech: 
 
@@ -28,7 +28,7 @@ https://user-images.githubusercontent.com/90536618/132971435-80f89351-3371-4238-
 
 
 
-### (2) Valid Sample (fe_03_55681-02161-B-040160-040711-A.wav)
+### (2) Valid Sample
 
 a. noisy speech: 
 
@@ -40,7 +40,7 @@ https://user-images.githubusercontent.com/90536618/132971490-f055cc26-7869-41ef-
 
 
 
-### (3) Test Sample (fe_03_1781-02235-B-024485-024688-A.wav)
+### (3) Test Sample
 
 a. noisy speech: 
 
