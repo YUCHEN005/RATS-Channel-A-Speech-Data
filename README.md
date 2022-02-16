@@ -2,14 +2,14 @@
 We create a public repository for RATS Channel-A Speech Data, which is a chargeable dataset under LDC. Here we release its Log-Mel Fbank features and several raw wavform listening samples.
 
 
-## I. Log-Mel Fbank features
+## Log-Mel Fbank features
 
 Google Drive Address: <https://drive.google.com/drive/folders/118JBm0B5txiS7q09SX_xlbf2glbad0jA?usp=sharing>
 
 Where you will find a README.md for instrcutions.
 
 
-## II. Raw Waveform Listening Samples
+## Raw Waveform Listening Samples
 
 Here we select one raw wavform sample from train set, valid set and test set, respectively. And we also present their parallel clean samples to show how noisy the RATS Channel-A corpus is. 
 
@@ -51,3 +51,6 @@ b. clean speech:
 https://user-images.githubusercontent.com/90536618/132971498-255a2398-3178-454c-9046-ee9bcc6ed908.mp4
 
 
+
+## References
+[1] D. Graff, K. Walker, S. M. Strassel, X. Ma, K. Jones, and A. Sawyer. “The rats collection: Supporting hlt researchwith degraded audio data.,” in LREC.Citeseer, 2014.
