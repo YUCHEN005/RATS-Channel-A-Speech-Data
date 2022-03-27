@@ -1,5 +1,5 @@
 # RATS-Channel-A-Speech-Data
-We create a public repository for RATS Channel-A Speech Data, which is a chargeable dataset under LDC. Here we release its Log-Mel Fbank features and several raw wavform listening samples.
+We create a public repository for RATS Channel-A Speech Data, which is a chargeable dataset under LDC ([official website](https://catalog.ldc.upenn.edu/LDC2015S02)). Here we release its Log-Mel Fbank features and several raw wavform listening samples.
 
 
 ## Log-Mel Fbank features
